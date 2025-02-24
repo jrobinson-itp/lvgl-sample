@@ -1467,3 +1467,13 @@
 712171	713653	7618560530471360	C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/.bin_timestamp	793ff6fb8c1679d9
 713654	714158	0	esp-idf/esptool_py/CMakeFiles/app_check_size	3d183a86d8da5060
 713654	714158	0	C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/esp-idf/esptool_py/CMakeFiles/app_check_size	3d183a86d8da5060
+559	887	0	esp-idf/esptool_py/CMakeFiles/app_check_size	3d183a86d8da5060
+559	887	0	C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/esp-idf/esptool_py/CMakeFiles/app_check_size	3d183a86d8da5060
+470	1166	7618556705835046	bootloader-prefix/src/bootloader-stamp/bootloader-build	f7767ffc184ea4
+470	1166	7618556705835046	bootloader/bootloader.elf	f7767ffc184ea4
+470	1166	7618556705835046	bootloader/bootloader.bin	f7767ffc184ea4
+470	1166	7618556705835046	bootloader/bootloader.map	f7767ffc184ea4
+470	1166	7618556705835046	C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	f7767ffc184ea4
+470	1166	7618556705835046	C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader/bootloader.elf	f7767ffc184ea4
+470	1166	7618556705835046	C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader/bootloader.bin	f7767ffc184ea4
+470	1166	7618556705835046	C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader/bootloader.map	f7767ffc184ea4
