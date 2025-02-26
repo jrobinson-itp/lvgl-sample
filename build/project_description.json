@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "lvgl_porting",
-    "project_version":    "07392b1-dirty",
+    "project_version":    "d5a4313-dirty",
     "project_path":       "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.3.1",
     "build_dir":          "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build",
