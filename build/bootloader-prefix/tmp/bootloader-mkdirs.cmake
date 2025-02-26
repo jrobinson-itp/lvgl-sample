@@ -5,18 +5,18 @@ cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
   "C:/Espressif/frameworks/esp-idf-v5.3.1/components/bootloader/subproject"
-  "C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader"
-  "C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader-prefix"
-  "C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader-prefix/tmp"
-  "C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader-prefix/src/bootloader-stamp"
-  "C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader-prefix/src"
-  "C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader-prefix/src/bootloader-stamp"
+  "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build/bootloader"
+  "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build/bootloader-prefix"
+  "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build/bootloader-prefix/tmp"
+  "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build/bootloader-prefix/src/bootloader-stamp"
+  "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build/bootloader-prefix/src"
+  "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

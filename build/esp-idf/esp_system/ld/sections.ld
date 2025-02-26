@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: C:\Users\jrobinson\Documents\EspressifProjects\ESP-IDF\08_lvgl_Porting\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: C:\Users\jrobinson\Documents\EspressifProjects\bible-desk-calendar\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 

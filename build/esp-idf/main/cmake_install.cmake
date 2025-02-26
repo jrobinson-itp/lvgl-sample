@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jrobinson/Documents/EspressifProjects/ESP-IDF/08_lvgl_Porting/main
+# Install script for directory: C:/Users/jrobinson/Documents/EspressifProjects/bible-desk-calendar/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
